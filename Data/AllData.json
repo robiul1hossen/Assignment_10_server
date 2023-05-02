@@ -5,16 +5,48 @@
     "image_url": "https://i.ibb.co/jvfjBn1/jeff-siepman-z-Ixd-GQ7l-PU-unsplash.jpg",
     "experience": 3,
     "recipes": 4,
-    "likes": 600
+    "likes": 600,
+    "recipe": {
+      "rid": 1,
+      "food_name": "Kung Pao Chicken",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breast, cut into small pieces",
+        "1 tbsp cornstarch",
+        "1 tbsp soy sauce",
+        "2 tbsp vegetable oil",
+        "1/2 cup unsalted peanuts",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "2-3 dried red chili peppers",
+        "3 green onions, chopped"
+      ],
+      "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    }
   },
 
   {
     "id": 2,
     "name": "Bob",
-    "image_url": " https://i.ibb.co/jJWbC9W/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "image_url": " https://i.ibb.co/hHdXNcx/eiliv-aceron-w-NQoa-YCFcs-I-unsplash.jpg",
     "experience": 7,
     "recipes": 4,
-    "likes": 762
+    "likes": 762,
+    "recipe": {
+      "rid": 2,
+      "food_name": "Kung Pao Chicken",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breast, cut into small pieces",
+        "1 tbsp cornstarch",
+        "1 tbsp soy sauce",
+        "2 tbsp vegetable oil",
+        "1/2 cup unsalted peanuts",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "2-3 dried red chili peppers",
+        "3 green onions, chopped"
+      ],
+      "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    }
   },
 
   {
@@ -23,7 +55,23 @@
     "image_url": "https://i.ibb.co/FVRxb8X/gabriella-clare-marino-y-ENTbz9-Y6-C4-unsplash.jpg",
     "experience": 2,
     "recipes": 4,
-    "likes": 336
+    "likes": 336,
+    "recipe": {
+      "rid": 3,
+      "food_name": "Kung Pao Chicken",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breast, cut into small pieces",
+        "1 tbsp cornstarch",
+        "1 tbsp soy sauce",
+        "2 tbsp vegetable oil",
+        "1/2 cup unsalted peanuts",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "2-3 dried red chili peppers",
+        "3 green onions, chopped"
+      ],
+      "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    }
   },
 
   {
@@ -32,7 +80,23 @@
     "image_url": "https://i.ibb.co/n3XGh3P/ronan-kruithof-llc-X9p-Tjh-XM-unsplash.jpg",
     "experience": 12,
     "recipes": 4,
-    "likes": 988
+    "likes": 988,
+    "recipe": {
+      "rid": 4,
+      "food_name": "Kung Pao Chicken",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breast, cut into small pieces",
+        "1 tbsp cornstarch",
+        "1 tbsp soy sauce",
+        "2 tbsp vegetable oil",
+        "1/2 cup unsalted peanuts",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "2-3 dried red chili peppers",
+        "3 green onions, chopped"
+      ],
+      "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    }
   },
 
   {
@@ -41,7 +105,23 @@
     "image_url": "https://i.ibb.co/FB4wb79/bluebird-provisions-l-RAWc-T7uwh-Y-unsplash.jpg",
     "experience": 1,
     "recipes": 4,
-    "likes": 460
+    "likes": 460,
+    "recipe": {
+      "rid": 5,
+      "food_name": "Kung Pao Chicken",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breast, cut into small pieces",
+        "1 tbsp cornstarch",
+        "1 tbsp soy sauce",
+        "2 tbsp vegetable oil",
+        "1/2 cup unsalted peanuts",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "2-3 dried red chili peppers",
+        "3 green onions, chopped"
+      ],
+      "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    }
   },
 
   {
@@ -50,6 +130,22 @@
     "image_url": " https://i.ibb.co/dbwRssW/jeff-siepman-kyu-Pj-Zud-BKs-unsplash.jpg",
     "experience": 5,
     "recipes": 4,
-    "likes": 512
+    "likes": 512,
+    "recipe": {
+      "rid": 6,
+      "food_name": "Kung Pao Chicken",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breast, cut into small pieces",
+        "1 tbsp cornstarch",
+        "1 tbsp soy sauce",
+        "2 tbsp vegetable oil",
+        "1/2 cup unsalted peanuts",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "2-3 dried red chili peppers",
+        "3 green onions, chopped"
+      ],
+      "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    }
   }
 ]
