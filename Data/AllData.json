@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "image_url": "https://i.ibb.co/jvfjBn1/jeff-siepman-z-Ixd-GQ7l-PU-unsplash.jpg",
+    "experience": 3,
+    "recipes": 4,
+    "likes": 600
+  },
+
+  {
+    "id": 2,
+    "name": "Bob",
+    "image_url": " https://i.ibb.co/jJWbC9W/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "experience": 7,
+    "recipes": 4,
+    "likes": 762
+  },
+
+  {
+    "id": 3,
+    "name": "Charlie",
+    "image_url": "https://i.ibb.co/FVRxb8X/gabriella-clare-marino-y-ENTbz9-Y6-C4-unsplash.jpg",
+    "experience": 2,
+    "recipes": 4,
+    "likes": 336
+  },
+
+  {
+    "id": 4,
+    "name": "David",
+    "image_url": "https://i.ibb.co/n3XGh3P/ronan-kruithof-llc-X9p-Tjh-XM-unsplash.jpg",
+    "experience": 12,
+    "recipes": 4,
+    "likes": 988
+  },
+
+  {
+    "id": 5,
+    "name": "Eve",
+    "image_url": "https://i.ibb.co/FB4wb79/bluebird-provisions-l-RAWc-T7uwh-Y-unsplash.jpg",
+    "experience": 1,
+    "recipes": 4,
+    "likes": 460
+  },
+
+  {
+    "id": 6,
+    "name": "Frank",
+    "image_url": " https://i.ibb.co/dbwRssW/jeff-siepman-kyu-Pj-Zud-BKs-unsplash.jpg",
+    "experience": 5,
+    "recipes": 4,
+    "likes": 512
+  }
+]
