@@ -2,11 +2,12 @@
   {
     "id": 1,
     "name": "Alice",
-    "image_url": "https://i.ibb.co/jvfjBn1/jeff-siepman-z-Ixd-GQ7l-PU-unsplash.jpg",
+    "image_url": "https://i.ibb.co/zZ8hxHs/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy.jpg",
     "experience": 3,
     "recipes": 4,
     "likes": 600,
-    "recipe": {
+    "description": "A Chinese chef is a highly trained culinary expert who specializes in the art of traditional Chinese cuisine. They have a deep understanding of Chinese cooking techniques, ingredients, and flavors, and use these skills to create dishes that are both delicious and visually appealing. Chinese chefs often begin their careers as apprentices, learning from experienced chefs and mastering the basics of Chinese cooking. As they gain more experience, they may specialize in a particular type of cuisine or dish. A good Chinese chef must be able to balance flavors and textures, paying close attention to the presentation of the dish. They must also have strong leadership and management skills, as they are responsible for overseeing the kitchen staff and ensuring that all dishes are prepared to the highest standards. Chinese chefs are highly respected in the culinary world, and their expertise is sought after in restaurants around the globe.",
+    "recipe1": {
       "rid": 1,
       "food_name": "Kung Pao Chicken",
       "ingredients": [
@@ -21,17 +22,66 @@
         "3 green onions, chopped"
       ],
       "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    },
+    "recipe2": {
+      "food_name": "Mapo Tofu",
+      "ingredients": [
+        "1 block of firm tofu, cut into small cubes",
+        "1 tbsp Sichuan peppercorns, toasted and ground",
+        "2 tbsp vegetable oil",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "1 lb ground pork",
+        "2 tbsp doubanjiang (spicy broad bean paste)",
+        "2 tbsp soy sauce",
+        "1 cup chicken or vegetable broth",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a wok or large skillet, heat the oil over high heat. Add the garlic, ginger, and Sichuan peppercorns and stir-fry for 30 seconds or until fragrant. 2. Add the ground pork and stir-fry for 2-3 minutes or until browned. 3. Add the doubanjiang and soy sauce and stir-fry for another minute. 4. Add the tofu and broth and bring to a boil. Reduce the heat and let simmer for 5-7 minutes or until the sauce has thickened. 5. Stir in the green onions and serve hot with rice."
+    },
+    "recipe3": {
+      "food_name": "Dumplings",
+      "ingredients": [
+        "1 lb ground pork",
+        "1/2 head napa cabbage, finely chopped",
+        "1/4 cup chopped scallions",
+        "1/4 cup chopped cilantro",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tbsp grated ginger",
+        "1 tbsp cornstarch",
+        "50-60 dumpling wrappers"
+      ],
+      "instructions": "1. In a large bowl, mix together the ground pork, napa cabbage, scallions, cilantro, soy sauce, sesame oil, ginger, and cornstarch until well combined. 2. To assemble the dumplings, place a small spoonful of filling in the center of a dumpling wrapper. Moisten the edges of the wrapper with water and fold the wrapper in half, pressing the edges together to seal. 3. In a large pot of boiling water, cook the dumplings for 3-4 minutes or until they float to the surface. 4. Serve hot with soy sauce or your favorite dipping sauce."
+    },
+    "recipe4": {
+      "food_name": "Hot and Sour Soup",
+      "ingredients": [
+        "4 cups chicken or vegetable broth",
+        "1/2 lb shiitake mushrooms, sliced",
+        "1/2 cup bamboo shoots, sliced",
+        "1/2 cup firm tofu, cut into small cubes",
+        "2 tbsp soy sauce",
+        "2 tbsp rice vinegar",
+        "1 tbsp cornstarch",
+        "1 tbsp sesame oil",
+        "1/2 tsp ground white pepper",
+        "1 egg, beaten",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a large pot, bring the broth to a boil. Add the mushrooms, bamboo shoots, and tofu and let simmer for 5-7 minutes. 2. In a small bowl, mix together the soy sauce, rice vinegar, cornstarch, sesame oil, and white pepper until smooth. Add the mixture to the pot and stir to combine. 3. Slowly pour in the beaten egg, stirring gently to create ribbons. 4. Garnish with green onions and serve hot."
     }
   },
 
   {
     "id": 2,
     "name": "Bob",
-    "image_url": " https://i.ibb.co/hHdXNcx/eiliv-aceron-w-NQoa-YCFcs-I-unsplash.jpg",
+    "image_url": "https://i.ibb.co/sWb0vCh/female-chef-standing-with-crossed-arms-white-uniform-looking-happy.jpg",
     "experience": 7,
     "recipes": 4,
     "likes": 762,
-    "recipe": {
+    "description": " A pastry chef is a skilled professional who specializes in the art of baking and pastry. They create a variety of desserts, pastries, and baked goods, using a range of techniques and ingredients. Pastry chefs must have a keen eye for detail, as their creations often require intricate decoration and presentation.",
+    "recipe1": {
       "rid": 2,
       "food_name": "Kung Pao Chicken",
       "ingredients": [
@@ -46,17 +96,66 @@
         "3 green onions, chopped"
       ],
       "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    },
+    "recipe2": {
+      "food_name": "Mapo Tofu",
+      "ingredients": [
+        "1 block of firm tofu, cut into small cubes",
+        "1 tbsp Sichuan peppercorns, toasted and ground",
+        "2 tbsp vegetable oil",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "1 lb ground pork",
+        "2 tbsp doubanjiang (spicy broad bean paste)",
+        "2 tbsp soy sauce",
+        "1 cup chicken or vegetable broth",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a wok or large skillet, heat the oil over high heat. Add the garlic, ginger, and Sichuan peppercorns and stir-fry for 30 seconds or until fragrant. 2. Add the ground pork and stir-fry for 2-3 minutes or until browned. 3. Add the doubanjiang and soy sauce and stir-fry for another minute. 4. Add the tofu and broth and bring to a boil. Reduce the heat and let simmer for 5-7 minutes or until the sauce has thickened. 5. Stir in the green onions and serve hot with rice."
+    },
+    "recipe3": {
+      "food_name": "Dumplings",
+      "ingredients": [
+        "1 lb ground pork",
+        "1/2 head napa cabbage, finely chopped",
+        "1/4 cup chopped scallions",
+        "1/4 cup chopped cilantro",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tbsp grated ginger",
+        "1 tbsp cornstarch",
+        "50-60 dumpling wrappers"
+      ],
+      "instructions": "1. In a large bowl, mix together the ground pork, napa cabbage, scallions, cilantro, soy sauce, sesame oil, ginger, and cornstarch until well combined. 2. To assemble the dumplings, place a small spoonful of filling in the center of a dumpling wrapper. Moisten the edges of the wrapper with water and fold the wrapper in half, pressing the edges together to seal. 3. In a large pot of boiling water, cook the dumplings for 3-4 minutes or until they float to the surface. 4. Serve hot with soy sauce or your favorite dipping sauce."
+    },
+    "recipe4": {
+      "food_name": "Hot and Sour Soup",
+      "ingredients": [
+        "4 cups chicken or vegetable broth",
+        "1/2 lb shiitake mushrooms, sliced",
+        "1/2 cup bamboo shoots, sliced",
+        "1/2 cup firm tofu, cut into small cubes",
+        "2 tbsp soy sauce",
+        "2 tbsp rice vinegar",
+        "1 tbsp cornstarch",
+        "1 tbsp sesame oil",
+        "1/2 tsp ground white pepper",
+        "1 egg, beaten",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a large pot, bring the broth to a boil. Add the mushrooms, bamboo shoots, and tofu and let simmer for 5-7 minutes. 2. In a small bowl, mix together the soy sauce, rice vinegar, cornstarch, sesame oil, and white pepper until smooth. Add the mixture to the pot and stir to combine. 3. Slowly pour in the beaten egg, stirring gently to create ribbons. 4. Garnish with green onions and serve hot."
     }
   },
 
   {
     "id": 3,
     "name": "Charlie",
-    "image_url": "https://i.ibb.co/FVRxb8X/gabriella-clare-marino-y-ENTbz9-Y6-C4-unsplash.jpg",
+    "image_url": "https://i.ibb.co/Rjdkqfn/chef-holding-pan-with-fire-inside.jpg",
     "experience": 2,
     "recipes": 4,
     "likes": 336,
-    "recipe": {
+    "description": " A sous chef is a senior member of the kitchen staff who works under the head chef. They are responsible for managing the kitchen, overseeing the preparation of dishes, and ensuring that everything runs smoothly. Sous chefs must have strong leadership and organizational skills, as well as an in-depth knowledge of culinary techniques and ingredients.",
+    "recipe1": {
       "rid": 3,
       "food_name": "Kung Pao Chicken",
       "ingredients": [
@@ -71,17 +170,66 @@
         "3 green onions, chopped"
       ],
       "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    },
+    "recipe2": {
+      "food_name": "Mapo Tofu",
+      "ingredients": [
+        "1 block of firm tofu, cut into small cubes",
+        "1 tbsp Sichuan peppercorns, toasted and ground",
+        "2 tbsp vegetable oil",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "1 lb ground pork",
+        "2 tbsp doubanjiang (spicy broad bean paste)",
+        "2 tbsp soy sauce",
+        "1 cup chicken or vegetable broth",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a wok or large skillet, heat the oil over high heat. Add the garlic, ginger, and Sichuan peppercorns and stir-fry for 30 seconds or until fragrant. 2. Add the ground pork and stir-fry for 2-3 minutes or until browned. 3. Add the doubanjiang and soy sauce and stir-fry for another minute. 4. Add the tofu and broth and bring to a boil. Reduce the heat and let simmer for 5-7 minutes or until the sauce has thickened. 5. Stir in the green onions and serve hot with rice."
+    },
+    "recipe3": {
+      "food_name": "Dumplings",
+      "ingredients": [
+        "1 lb ground pork",
+        "1/2 head napa cabbage, finely chopped",
+        "1/4 cup chopped scallions",
+        "1/4 cup chopped cilantro",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tbsp grated ginger",
+        "1 tbsp cornstarch",
+        "50-60 dumpling wrappers"
+      ],
+      "instructions": "1. In a large bowl, mix together the ground pork, napa cabbage, scallions, cilantro, soy sauce, sesame oil, ginger, and cornstarch until well combined. 2. To assemble the dumplings, place a small spoonful of filling in the center of a dumpling wrapper. Moisten the edges of the wrapper with water and fold the wrapper in half, pressing the edges together to seal. 3. In a large pot of boiling water, cook the dumplings for 3-4 minutes or until they float to the surface. 4. Serve hot with soy sauce or your favorite dipping sauce."
+    },
+    "recipe4": {
+      "food_name": "Hot and Sour Soup",
+      "ingredients": [
+        "4 cups chicken or vegetable broth",
+        "1/2 lb shiitake mushrooms, sliced",
+        "1/2 cup bamboo shoots, sliced",
+        "1/2 cup firm tofu, cut into small cubes",
+        "2 tbsp soy sauce",
+        "2 tbsp rice vinegar",
+        "1 tbsp cornstarch",
+        "1 tbsp sesame oil",
+        "1/2 tsp ground white pepper",
+        "1 egg, beaten",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a large pot, bring the broth to a boil. Add the mushrooms, bamboo shoots, and tofu and let simmer for 5-7 minutes. 2. In a small bowl, mix together the soy sauce, rice vinegar, cornstarch, sesame oil, and white pepper until smooth. Add the mixture to the pot and stir to combine. 3. Slowly pour in the beaten egg, stirring gently to create ribbons. 4. Garnish with green onions and serve hot."
     }
   },
 
   {
     "id": 4,
     "name": "David",
-    "image_url": "https://i.ibb.co/n3XGh3P/ronan-kruithof-llc-X9p-Tjh-XM-unsplash.jpg",
+    "image_url": "https://i.ibb.co/7WZyP8Z/portrait-smiling-chef-uniform.jpg",
     "experience": 12,
     "recipes": 4,
     "likes": 988,
-    "recipe": {
+    "description": "A sommelier is a wine expert who specializes in pairing wine with food. They have a deep understanding of different types of wine, as well as the flavors and aromas that complement different dishes. Sommeliers must be able to recommend the right wine for each dish, taking into account the preferences of the customer and the style of the restaurant.",
+    "recipe1": {
       "rid": 4,
       "food_name": "Kung Pao Chicken",
       "ingredients": [
@@ -96,17 +244,66 @@
         "3 green onions, chopped"
       ],
       "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    },
+    "recipe2": {
+      "food_name": "Mapo Tofu",
+      "ingredients": [
+        "1 block of firm tofu, cut into small cubes",
+        "1 tbsp Sichuan peppercorns, toasted and ground",
+        "2 tbsp vegetable oil",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "1 lb ground pork",
+        "2 tbsp doubanjiang (spicy broad bean paste)",
+        "2 tbsp soy sauce",
+        "1 cup chicken or vegetable broth",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a wok or large skillet, heat the oil over high heat. Add the garlic, ginger, and Sichuan peppercorns and stir-fry for 30 seconds or until fragrant. 2. Add the ground pork and stir-fry for 2-3 minutes or until browned. 3. Add the doubanjiang and soy sauce and stir-fry for another minute. 4. Add the tofu and broth and bring to a boil. Reduce the heat and let simmer for 5-7 minutes or until the sauce has thickened. 5. Stir in the green onions and serve hot with rice."
+    },
+    "recipe3": {
+      "food_name": "Dumplings",
+      "ingredients": [
+        "1 lb ground pork",
+        "1/2 head napa cabbage, finely chopped",
+        "1/4 cup chopped scallions",
+        "1/4 cup chopped cilantro",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tbsp grated ginger",
+        "1 tbsp cornstarch",
+        "50-60 dumpling wrappers"
+      ],
+      "instructions": "1. In a large bowl, mix together the ground pork, napa cabbage, scallions, cilantro, soy sauce, sesame oil, ginger, and cornstarch until well combined. 2. To assemble the dumplings, place a small spoonful of filling in the center of a dumpling wrapper. Moisten the edges of the wrapper with water and fold the wrapper in half, pressing the edges together to seal. 3. In a large pot of boiling water, cook the dumplings for 3-4 minutes or until they float to the surface. 4. Serve hot with soy sauce or your favorite dipping sauce."
+    },
+    "recipe4": {
+      "food_name": "Hot and Sour Soup",
+      "ingredients": [
+        "4 cups chicken or vegetable broth",
+        "1/2 lb shiitake mushrooms, sliced",
+        "1/2 cup bamboo shoots, sliced",
+        "1/2 cup firm tofu, cut into small cubes",
+        "2 tbsp soy sauce",
+        "2 tbsp rice vinegar",
+        "1 tbsp cornstarch",
+        "1 tbsp sesame oil",
+        "1/2 tsp ground white pepper",
+        "1 egg, beaten",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a large pot, bring the broth to a boil. Add the mushrooms, bamboo shoots, and tofu and let simmer for 5-7 minutes. 2. In a small bowl, mix together the soy sauce, rice vinegar, cornstarch, sesame oil, and white pepper until smooth. Add the mixture to the pot and stir to combine. 3. Slowly pour in the beaten egg, stirring gently to create ribbons. 4. Garnish with green onions and serve hot."
     }
   },
 
   {
     "id": 5,
     "name": "Eve",
-    "image_url": "https://i.ibb.co/FB4wb79/bluebird-provisions-l-RAWc-T7uwh-Y-unsplash.jpg",
+    "image_url": "https://i.ibb.co/CQdKnRT/happy-young-cook-uniform-holding-salad.jpg",
     "experience": 1,
     "recipes": 4,
     "likes": 460,
-    "recipe": {
+    "description": "A sushi chef is a highly skilled professional who specializes in the art of making sushi. They use a variety of techniques to prepare the fish, rice, and other ingredients, and create beautiful and delicious sushi rolls and sashimi. Sushi chefs must have a steady hand, excellent knife skills, and a deep knowledge of the different types of fish and seafood used in sushi.",
+    "recipe1": {
       "rid": 5,
       "food_name": "Kung Pao Chicken",
       "ingredients": [
@@ -121,17 +318,66 @@
         "3 green onions, chopped"
       ],
       "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    },
+    "recipe2": {
+      "food_name": "Mapo Tofu",
+      "ingredients": [
+        "1 block of firm tofu, cut into small cubes",
+        "1 tbsp Sichuan peppercorns, toasted and ground",
+        "2 tbsp vegetable oil",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "1 lb ground pork",
+        "2 tbsp doubanjiang (spicy broad bean paste)",
+        "2 tbsp soy sauce",
+        "1 cup chicken or vegetable broth",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a wok or large skillet, heat the oil over high heat. Add the garlic, ginger, and Sichuan peppercorns and stir-fry for 30 seconds or until fragrant. 2. Add the ground pork and stir-fry for 2-3 minutes or until browned. 3. Add the doubanjiang and soy sauce and stir-fry for another minute. 4. Add the tofu and broth and bring to a boil. Reduce the heat and let simmer for 5-7 minutes or until the sauce has thickened. 5. Stir in the green onions and serve hot with rice."
+    },
+    "recipe3": {
+      "food_name": "Dumplings",
+      "ingredients": [
+        "1 lb ground pork",
+        "1/2 head napa cabbage, finely chopped",
+        "1/4 cup chopped scallions",
+        "1/4 cup chopped cilantro",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tbsp grated ginger",
+        "1 tbsp cornstarch",
+        "50-60 dumpling wrappers"
+      ],
+      "instructions": "1. In a large bowl, mix together the ground pork, napa cabbage, scallions, cilantro, soy sauce, sesame oil, ginger, and cornstarch until well combined. 2. To assemble the dumplings, place a small spoonful of filling in the center of a dumpling wrapper. Moisten the edges of the wrapper with water and fold the wrapper in half, pressing the edges together to seal. 3. In a large pot of boiling water, cook the dumplings for 3-4 minutes or until they float to the surface. 4. Serve hot with soy sauce or your favorite dipping sauce."
+    },
+    "recipe4": {
+      "food_name": "Hot and Sour Soup",
+      "ingredients": [
+        "4 cups chicken or vegetable broth",
+        "1/2 lb shiitake mushrooms, sliced",
+        "1/2 cup bamboo shoots, sliced",
+        "1/2 cup firm tofu, cut into small cubes",
+        "2 tbsp soy sauce",
+        "2 tbsp rice vinegar",
+        "1 tbsp cornstarch",
+        "1 tbsp sesame oil",
+        "1/2 tsp ground white pepper",
+        "1 egg, beaten",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a large pot, bring the broth to a boil. Add the mushrooms, bamboo shoots, and tofu and let simmer for 5-7 minutes. 2. In a small bowl, mix together the soy sauce, rice vinegar, cornstarch, sesame oil, and white pepper until smooth. Add the mixture to the pot and stir to combine. 3. Slowly pour in the beaten egg, stirring gently to create ribbons. 4. Garnish with green onions and serve hot."
     }
   },
 
   {
     "id": 6,
     "name": "Frank",
-    "image_url": " https://i.ibb.co/dbwRssW/jeff-siepman-kyu-Pj-Zud-BKs-unsplash.jpg",
+    "image_url": " https://i.ibb.co/Q8Yb2hB/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident.jpg",
     "experience": 5,
     "recipes": 4,
     "likes": 512,
-    "recipe": {
+    "description": "An executive chef is the head chef of a restaurant or hotel. They are responsible for overseeing the kitchen, managing the staff, and creating menus that showcase the restaurant's unique style and vision. Executive chefs must have strong leadership skills, as well as an in-depth knowledge of culinary techniques, ingredients, and trends. They must also be able to balance creativity with practicality, ensuring that the dishes they create are both innovative and profitable.",
+    "recipe1": {
       "rid": 6,
       "food_name": "Kung Pao Chicken",
       "ingredients": [
@@ -146,6 +392,54 @@
         "3 green onions, chopped"
       ],
       "instructions": "1. In a medium bowl, mix together the chicken, cornstarch, and soy sauce. Let marinate for at least 10 minutes. 2. In a wok or large skillet, heat the oil over high heat. Add the chicken and stir-fry for 2-3 minutes or until browned. 3. Add the peanuts, garlic, ginger, and dried chili peppers. Stir-fry for another 1-2 minutes or until fragrant. 4. Add the green onions and stir-fry for another minute. 5. Serve hot with rice or noodles."
+    },
+    "recipe2": {
+      "food_name": "Mapo Tofu",
+      "ingredients": [
+        "1 block of firm tofu, cut into small cubes",
+        "1 tbsp Sichuan peppercorns, toasted and ground",
+        "2 tbsp vegetable oil",
+        "3 cloves garlic, minced",
+        "1/2 inch ginger, minced",
+        "1 lb ground pork",
+        "2 tbsp doubanjiang (spicy broad bean paste)",
+        "2 tbsp soy sauce",
+        "1 cup chicken or vegetable broth",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a wok or large skillet, heat the oil over high heat. Add the garlic, ginger, and Sichuan peppercorns and stir-fry for 30 seconds or until fragrant. 2. Add the ground pork and stir-fry for 2-3 minutes or until browned. 3. Add the doubanjiang and soy sauce and stir-fry for another minute. 4. Add the tofu and broth and bring to a boil. Reduce the heat and let simmer for 5-7 minutes or until the sauce has thickened. 5. Stir in the green onions and serve hot with rice."
+    },
+    "recipe3": {
+      "food_name": "Dumplings",
+      "ingredients": [
+        "1 lb ground pork",
+        "1/2 head napa cabbage, finely chopped",
+        "1/4 cup chopped scallions",
+        "1/4 cup chopped cilantro",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tbsp grated ginger",
+        "1 tbsp cornstarch",
+        "50-60 dumpling wrappers"
+      ],
+      "instructions": "1. In a large bowl, mix together the ground pork, napa cabbage, scallions, cilantro, soy sauce, sesame oil, ginger, and cornstarch until well combined. 2. To assemble the dumplings, place a small spoonful of filling in the center of a dumpling wrapper. Moisten the edges of the wrapper with water and fold the wrapper in half, pressing the edges together to seal. 3. In a large pot of boiling water, cook the dumplings for 3-4 minutes or until they float to the surface. 4. Serve hot with soy sauce or your favorite dipping sauce."
+    },
+    "recipe4": {
+      "food_name": "Hot and Sour Soup",
+      "ingredients": [
+        "4 cups chicken or vegetable broth",
+        "1/2 lb shiitake mushrooms, sliced",
+        "1/2 cup bamboo shoots, sliced",
+        "1/2 cup firm tofu, cut into small cubes",
+        "2 tbsp soy sauce",
+        "2 tbsp rice vinegar",
+        "1 tbsp cornstarch",
+        "1 tbsp sesame oil",
+        "1/2 tsp ground white pepper",
+        "1 egg, beaten",
+        "2 green onions, chopped"
+      ],
+      "instructions": "1. In a large pot, bring the broth to a boil. Add the mushrooms, bamboo shoots, and tofu and let simmer for 5-7 minutes. 2. In a small bowl, mix together the soy sauce, rice vinegar, cornstarch, sesame oil, and white pepper until smooth. Add the mixture to the pot and stir to combine. 3. Slowly pour in the beaten egg, stirring gently to create ribbons. 4. Garnish with green onions and serve hot."
     }
   }
 ]
