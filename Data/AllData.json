@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Alice",
     "image_url": "https://i.ibb.co/zZ8hxHs/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy.jpg",
+
     "experience": 3,
     "recipes": 4,
     "likes": 600,
@@ -10,6 +11,7 @@
     "recipe1": {
       "rid": 1,
       "food_name": "Kung Pao Chicken",
+      "foodImg": "https://i.ibb.co/gjJssjG/pork-with-vegetables-asian-style.jpg",
       "ingredients": [
         "1 lb boneless, skinless chicken breast, cut into small pieces",
         "1 tbsp cornstarch",
@@ -25,6 +27,7 @@
     },
     "recipe2": {
       "food_name": "Mapo Tofu",
+      "foodImg": "https://i.ibb.co/G5qCwzL/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table.jpg",
       "ingredients": [
         "1 block of firm tofu, cut into small cubes",
         "1 tbsp Sichuan peppercorns, toasted and ground",
@@ -41,6 +44,7 @@
     },
     "recipe3": {
       "food_name": "Dumplings",
+      "foodImg": "https://i.ibb.co/JFY8z9s/high-angle-japanese-dumplings-composition.jpg",
       "ingredients": [
         "1 lb ground pork",
         "1/2 head napa cabbage, finely chopped",
@@ -56,6 +60,7 @@
     },
     "recipe4": {
       "food_name": "Hot and Sour Soup",
+      "foodImg": "https://i.ibb.co/zGbQxmx/spicy-tomato-soup-with-meatballs-pasta-vegetables-healthy-dinner.jpg",
       "ingredients": [
         "4 cups chicken or vegetable broth",
         "1/2 lb shiitake mushrooms, sliced",
@@ -77,6 +82,7 @@
     "id": 2,
     "name": "Bob",
     "image_url": "https://i.ibb.co/sWb0vCh/female-chef-standing-with-crossed-arms-white-uniform-looking-happy.jpg",
+
     "experience": 7,
     "recipes": 4,
     "likes": 762,
@@ -84,6 +90,7 @@
     "recipe1": {
       "rid": 2,
       "food_name": "Kung Pao Chicken",
+      "foodImg": "https://i.ibb.co/gjJssjG/pork-with-vegetables-asian-style.jpg",
       "ingredients": [
         "1 lb boneless, skinless chicken breast, cut into small pieces",
         "1 tbsp cornstarch",
@@ -99,6 +106,7 @@
     },
     "recipe2": {
       "food_name": "Mapo Tofu",
+      "foodImg": "https://i.ibb.co/G5qCwzL/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table.jpg",
       "ingredients": [
         "1 block of firm tofu, cut into small cubes",
         "1 tbsp Sichuan peppercorns, toasted and ground",
@@ -115,6 +123,7 @@
     },
     "recipe3": {
       "food_name": "Dumplings",
+      "foodImg": "https://i.ibb.co/JFY8z9s/high-angle-japanese-dumplings-composition.jpg",
       "ingredients": [
         "1 lb ground pork",
         "1/2 head napa cabbage, finely chopped",
@@ -130,6 +139,7 @@
     },
     "recipe4": {
       "food_name": "Hot and Sour Soup",
+      "foodImg": "https://i.ibb.co/zGbQxmx/spicy-tomato-soup-with-meatballs-pasta-vegetables-healthy-dinner.jpg",
       "ingredients": [
         "4 cups chicken or vegetable broth",
         "1/2 lb shiitake mushrooms, sliced",
@@ -158,6 +168,7 @@
     "recipe1": {
       "rid": 3,
       "food_name": "Kung Pao Chicken",
+      "foodImg": "https://i.ibb.co/gjJssjG/pork-with-vegetables-asian-style.jpg",
       "ingredients": [
         "1 lb boneless, skinless chicken breast, cut into small pieces",
         "1 tbsp cornstarch",
@@ -173,6 +184,7 @@
     },
     "recipe2": {
       "food_name": "Mapo Tofu",
+      "foodImg": "https://i.ibb.co/G5qCwzL/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table.jpg",
       "ingredients": [
         "1 block of firm tofu, cut into small cubes",
         "1 tbsp Sichuan peppercorns, toasted and ground",
@@ -189,6 +201,7 @@
     },
     "recipe3": {
       "food_name": "Dumplings",
+      "foodImg": "https://i.ibb.co/JFY8z9s/high-angle-japanese-dumplings-composition.jpg",
       "ingredients": [
         "1 lb ground pork",
         "1/2 head napa cabbage, finely chopped",
@@ -204,6 +217,7 @@
     },
     "recipe4": {
       "food_name": "Hot and Sour Soup",
+      "foodImg": "https://i.ibb.co/zGbQxmx/spicy-tomato-soup-with-meatballs-pasta-vegetables-healthy-dinner.jpg",
       "ingredients": [
         "4 cups chicken or vegetable broth",
         "1/2 lb shiitake mushrooms, sliced",
@@ -232,6 +246,7 @@
     "recipe1": {
       "rid": 4,
       "food_name": "Kung Pao Chicken",
+      "foodImg": "https://i.ibb.co/gjJssjG/pork-with-vegetables-asian-style.jpg",
       "ingredients": [
         "1 lb boneless, skinless chicken breast, cut into small pieces",
         "1 tbsp cornstarch",
@@ -247,6 +262,7 @@
     },
     "recipe2": {
       "food_name": "Mapo Tofu",
+      "foodImg": "https://i.ibb.co/G5qCwzL/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table.jpg",
       "ingredients": [
         "1 block of firm tofu, cut into small cubes",
         "1 tbsp Sichuan peppercorns, toasted and ground",
@@ -263,6 +279,7 @@
     },
     "recipe3": {
       "food_name": "Dumplings",
+      "foodImg": "https://i.ibb.co/JFY8z9s/high-angle-japanese-dumplings-composition.jpg",
       "ingredients": [
         "1 lb ground pork",
         "1/2 head napa cabbage, finely chopped",
@@ -278,6 +295,7 @@
     },
     "recipe4": {
       "food_name": "Hot and Sour Soup",
+      "foodImg": "https://i.ibb.co/zGbQxmx/spicy-tomato-soup-with-meatballs-pasta-vegetables-healthy-dinner.jpg",
       "ingredients": [
         "4 cups chicken or vegetable broth",
         "1/2 lb shiitake mushrooms, sliced",
@@ -306,6 +324,7 @@
     "recipe1": {
       "rid": 5,
       "food_name": "Kung Pao Chicken",
+      "foodImg": "https://i.ibb.co/gjJssjG/pork-with-vegetables-asian-style.jpg",
       "ingredients": [
         "1 lb boneless, skinless chicken breast, cut into small pieces",
         "1 tbsp cornstarch",
@@ -321,6 +340,7 @@
     },
     "recipe2": {
       "food_name": "Mapo Tofu",
+      "foodImg": "https://i.ibb.co/G5qCwzL/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table.jpg",
       "ingredients": [
         "1 block of firm tofu, cut into small cubes",
         "1 tbsp Sichuan peppercorns, toasted and ground",
@@ -337,6 +357,7 @@
     },
     "recipe3": {
       "food_name": "Dumplings",
+      "foodImg": "https://i.ibb.co/JFY8z9s/high-angle-japanese-dumplings-composition.jpg",
       "ingredients": [
         "1 lb ground pork",
         "1/2 head napa cabbage, finely chopped",
@@ -352,6 +373,7 @@
     },
     "recipe4": {
       "food_name": "Hot and Sour Soup",
+      "foodImg": "https://i.ibb.co/zGbQxmx/spicy-tomato-soup-with-meatballs-pasta-vegetables-healthy-dinner.jpg",
       "ingredients": [
         "4 cups chicken or vegetable broth",
         "1/2 lb shiitake mushrooms, sliced",
@@ -380,6 +402,7 @@
     "recipe1": {
       "rid": 6,
       "food_name": "Kung Pao Chicken",
+      "foodImg": "https://i.ibb.co/gjJssjG/pork-with-vegetables-asian-style.jpg",
       "ingredients": [
         "1 lb boneless, skinless chicken breast, cut into small pieces",
         "1 tbsp cornstarch",
@@ -395,6 +418,7 @@
     },
     "recipe2": {
       "food_name": "Mapo Tofu",
+      "foodImg": "https://i.ibb.co/G5qCwzL/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table.jpg",
       "ingredients": [
         "1 block of firm tofu, cut into small cubes",
         "1 tbsp Sichuan peppercorns, toasted and ground",
@@ -411,6 +435,7 @@
     },
     "recipe3": {
       "food_name": "Dumplings",
+      "foodImg": "https://i.ibb.co/JFY8z9s/high-angle-japanese-dumplings-composition.jpg",
       "ingredients": [
         "1 lb ground pork",
         "1/2 head napa cabbage, finely chopped",
@@ -426,6 +451,7 @@
     },
     "recipe4": {
       "food_name": "Hot and Sour Soup",
+      "foodImg": "https://i.ibb.co/zGbQxmx/spicy-tomato-soup-with-meatballs-pasta-vegetables-healthy-dinner.jpg",
       "ingredients": [
         "4 cups chicken or vegetable broth",
         "1/2 lb shiitake mushrooms, sliced",
