@@ -3,10 +3,10 @@
     "id": 1,
     "name": "Alice",
     "image_url": "https://i.ibb.co/zZ8hxHs/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy.jpg",
-
     "experience": 3,
     "recipes": 4,
     "likes": 600,
+    "videoLink": "https://www.youtube.com/embed/_QWXjebXiWk",
     "description": "A Chinese chef is a highly trained culinary expert who specializes in the art of traditional Chinese cuisine. They have a deep understanding of Chinese cooking techniques, ingredients, and flavors, and use these skills to create dishes that are both delicious and visually appealing. Chinese chefs often begin their careers as apprentices, learning from experienced chefs and mastering the basics of Chinese cooking. As they gain more experience, they may specialize in a particular type of cuisine or dish. A good Chinese chef must be able to balance flavors and textures, paying close attention to the presentation of the dish. They must also have strong leadership and management skills, as they are responsible for overseeing the kitchen staff and ensuring that all dishes are prepared to the highest standards. Chinese chefs are highly respected in the culinary world, and their expertise is sought after in restaurants around the globe.",
     "recipe1": {
       "rid": 1,
@@ -86,6 +86,7 @@
     "experience": 7,
     "recipes": 4,
     "likes": 762,
+    "videoLink": "https://www.youtube.com/embed/_QWXjebXiWk",
     "description": " A pastry chef is a skilled professional who specializes in the art of baking and pastry. They create a variety of desserts, pastries, and baked goods, using a range of techniques and ingredients. Pastry chefs must have a keen eye for detail, as their creations often require intricate decoration and presentation.",
     "recipe1": {
       "rid": 2,
@@ -164,6 +165,7 @@
     "experience": 2,
     "recipes": 4,
     "likes": 336,
+    "videoLink": "https://www.youtube.com/embed/_QWXjebXiWk",
     "description": " A sous chef is a senior member of the kitchen staff who works under the head chef. They are responsible for managing the kitchen, overseeing the preparation of dishes, and ensuring that everything runs smoothly. Sous chefs must have strong leadership and organizational skills, as well as an in-depth knowledge of culinary techniques and ingredients.",
     "recipe1": {
       "rid": 3,
@@ -242,6 +244,7 @@
     "experience": 12,
     "recipes": 4,
     "likes": 988,
+    "videoLink": "https://www.youtube.com/embed/_QWXjebXiWk",
     "description": "A sommelier is a wine expert who specializes in pairing wine with food. They have a deep understanding of different types of wine, as well as the flavors and aromas that complement different dishes. Sommeliers must be able to recommend the right wine for each dish, taking into account the preferences of the customer and the style of the restaurant.",
     "recipe1": {
       "rid": 4,
@@ -320,6 +323,7 @@
     "experience": 1,
     "recipes": 4,
     "likes": 460,
+    "videoLink": "https://www.youtube.com/embed/_QWXjebXiWk",
     "description": "A sushi chef is a highly skilled professional who specializes in the art of making sushi. They use a variety of techniques to prepare the fish, rice, and other ingredients, and create beautiful and delicious sushi rolls and sashimi. Sushi chefs must have a steady hand, excellent knife skills, and a deep knowledge of the different types of fish and seafood used in sushi.",
     "recipe1": {
       "rid": 5,
@@ -398,6 +402,7 @@
     "experience": 5,
     "recipes": 4,
     "likes": 512,
+    "videoLink": "https://www.youtube.com/embed/_QWXjebXiWk",
     "description": "An executive chef is the head chef of a restaurant or hotel. They are responsible for overseeing the kitchen, managing the staff, and creating menus that showcase the restaurant's unique style and vision. Executive chefs must have strong leadership skills, as well as an in-depth knowledge of culinary techniques, ingredients, and trends. They must also be able to balance creativity with practicality, ensuring that the dishes they create are both innovative and profitable.",
     "recipe1": {
       "rid": 6,
