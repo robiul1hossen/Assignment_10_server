@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 const recipes = require("./Data/AllData.json");
 
+// middleware
 app.use(cors());
 
 app.get("/", (req, res) => {
